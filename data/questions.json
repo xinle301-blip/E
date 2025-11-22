@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "The company is going to implement a(n) ________ expansion plan to double its market, but we doubt if it's feasible.",
+    "options": {
+      "A": "reluctant",
+      "B": "imaginary",
+      "C": "ambitious",
+      "D": "miserable"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "Sam did not get fired; instead, he left his job ________ because he had some personal issues to deal with.",
+    "options": {
+      "A": "voluntarily",
+      "B": "moderately",
+      "C": "mechanically",
+      "D": "consequently"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Women have long been regarded as hard-wired to have an innate sixth sense, which is known as women's ________.",
+    "options": {
+      "A": "optimism",
+      "B": "maintenance",
+      "C": "intuition",
+      "D": "comprehension"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "The word 'nomophobia' was first ________ in 2005 to refer to the fear of being without a mobile phone.",
+    "options": {
+      "A": "coined",
+      "B": "combed",
+      "C": "acquired",
+      "D": "amounted"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "The archer has always had his heart set on the ________ dream to gain an Olympic medal even after years of training and hard work.",
+    "options": {
+      "A": "vivid",
+      "B": "robust",
+      "C": "spacious",
+      "D": "brutal"
+    },
+    "answer": "A"
+  }
+]
