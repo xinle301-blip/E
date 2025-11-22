@@ -2,56 +2,121 @@
   {
     "id": 1,
     "question": "The company is going to implement a(n) ________ expansion plan to double its market, but we doubt if it's feasible.",
-    "options": {
-      "A": "reluctant",
-      "B": "imaginary",
-      "C": "ambitious",
-      "D": "miserable"
-    },
+    "options": { "A": "reluctant", "B": "imaginary", "C": "ambitious", "D": "miserable" },
     "answer": "C"
   },
   {
     "id": 2,
     "question": "Sam did not get fired; instead, he left his job ________ because he had some personal issues to deal with.",
-    "options": {
-      "A": "voluntarily",
-      "B": "moderately",
-      "C": "mechanically",
-      "D": "consequently"
-    },
+    "options": { "A": "voluntarily", "B": "moderately", "C": "mechanically", "D": "consequently" },
     "answer": "A"
   },
   {
     "id": 3,
     "question": "Women have long been regarded as hard-wired to have an innate sixth sense, which is known as women's ________.",
-    "options": {
-      "A": "optimism",
-      "B": "maintenance",
-      "C": "intuition",
-      "D": "comprehension"
-    },
+    "options": { "A": "optimism", "B": "maintenance", "C": "intuition", "D": "comprehension" },
     "answer": "C"
   },
   {
     "id": 4,
     "question": "The word 'nomophobia' was first ________ in 2005 to refer to the fear of being without a mobile phone.",
-    "options": {
-      "A": "coined",
-      "B": "combed",
-      "C": "acquired",
-      "D": "amounted"
-    },
+    "options": { "A": "coined", "B": "combed", "C": "acquired", "D": "amounted" },
     "answer": "A"
   },
   {
     "id": 5,
     "question": "The archer has always had his heart set on the ________ dream to gain an Olympic medal even after years of training and hard work.",
-    "options": {
-      "A": "vivid",
-      "B": "robust",
-      "C": "spacious",
-      "D": "brutal"
-    },
+    "options": { "A": "vivid", "B": "robust", "C": "spacious", "D": "brutal" },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "PASTE QUESTION 6 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "PASTE QUESTION 7 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "PASTE QUESTION 8 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "PASTE QUESTION 9 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "PASTE QUESTION 10 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "PASTE QUESTION 11 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "PASTE QUESTION 12 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "PASTE QUESTION 13 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "PASTE QUESTION 14 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "PASTE QUESTION 15 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "PASTE QUESTION 16 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "PASTE QUESTION 17 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "PASTE QUESTION 18 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "D"
+  },
+  {
+    "id": 19,
+    "question": "PASTE QUESTION 19 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "PASTE QUESTION 20 TEXT HERE...",
+    "options": { "A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D" },
     "answer": "A"
   }
 ]
