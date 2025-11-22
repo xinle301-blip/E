@@ -120,3 +120,485 @@
     "answer": "A"
   }
 ]
+[
+  {
+    "id": 21,
+    "question": "Our English teacher gave us some more example sentences to ________ our memory of the usage of this word, which was taught in the previous lesson.",
+    "options": { "A": "motivate", "B": "dispense", "C": "contest", "D": "refresh" },
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "question": "The famous soccer player has a(n) ________ tattoo of an eagle covering his right shoulder and arm, which looks like a real one.",
+    "options": { "A": "elaborate", "B": "invisible", "C": "solemn", "D": "fragrant" },
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "Though times are bad, there are still ________ opportunities for well-qualified and well-prepared job seekers.",
+    "options": { "A": "abstract", "B": "artificial", "C": "effective", "D": "abundant" },
+    "answer": "D"
+  },
+  {
+    "id": 24,
+    "question": "Not until Mary's parents accidentally found that her classmates had insulted and criticized her did they learn that she had been ________ abused at school.",
+    "options": { "A": "swiftly", "B": "loosely", "C": "verbally", "D": "gracefully" },
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "question": "Studies show that early ________ to piano practice can help build up children's language skills. This will probably prompt more parents to force their kids to take piano lessons.",
+    "options": { "A": "refusal", "B": "proposal", "C": "adventure", "D": "exposure" },
+    "answer": "D"
+  },
+  {
+    "id": 26,
+    "question": "Thanks to advances in assisted reproduction, the death of the last male northern white rhino doesn't necessarily mean ________ for the species.",
+    "options": { "A": "shortage", "B": "extinction", "C": "intuition", "D": "milestone" },
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "The suicide bombing was an act of ________ triggered by the collective injustice that the bomber's community suffers.",
+    "options": { "A": "liberty", "B": "revenge", "C": "landslide", "D": "welfare" },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "When the judge saw the fans of the accused superstar screaming in the courtroom, he immediately ________ the police to arrest them.",
+    "options": { "A": "accessed", "B": "cultivated", "C": "summoned", "D": "obtained" },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Cashless businesses were once a(n) ________ case in some specific shopping venues, but now, cashless is fast on its way to becoming the norm.",
+    "options": { "A": "intense", "B": "crucial", "C": "isolated", "D": "prior" },
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "question": "When the chilly wind started to blow in the evening, many pedestrians on the street ________ their hands into the pockets.",
+    "options": { "A": "sprained", "B": "bathed", "C": "tucked", "D": "twisted" },
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "question": "After the earthquake, hundreds of victims took ________ in the playground of a local high school for fear that the disaster might strike again.",
+    "options": { "A": "refuge", "B": "revenge", "C": "delight", "D": "hostage" },
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "question": "This pair of sneakers is expensive but ________. With proper use and care, it is supposed to last more than ten years.",
+    "options": { "A": "fancy", "B": "durable", "C": "extensive", "D": "awkward" },
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "question": "I'd advise you to avoid any ________ with Jim, as he is known for a long record of dishonest deeds.",
+    "options": { "A": "demonstration", "B": "objection", "C": "association", "D": "distribution" },
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "question": "It's not a formal party, so you come in ________ wear, such as T-shirts, shorts, hoodies or jeans.",
+    "options": { "A": "primitive", "B": "luxurious", "C": "casual", "D": "delicate" },
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "question": "Longing for more ________ to ancient civilization, Joseph decides to make a trip to Egypt.",
+    "options": { "A": "addition", "B": "obstacle", "C": "resistance", "D": "exposure" },
+    "answer": "D"
+  },
+  {
+    "id": 36,
+    "question": "The difference between the two pictures is too small to be ________; they look practically the same.",
+    "options": { "A": "selected", "B": "detected", "C": "neglected", "D": "suspected" },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "According to the existing election law, Joe is not ________ to run for chairman because he is a foreigner, and not a permanent resident.",
+    "options": { "A": "qualified", "B": "enclosed", "C": "exceptional", "D": "potential" },
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "Strict laws and punishments may help reduce the crime rate but cannot totally ________ crime.",
+    "options": { "A": "pause", "B": "replace", "C": "eliminate", "D": "confirm" },
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "question": "Job interviews provide a great opportunity for the employer to ________ the capability and suitability of the candidates.",
+    "options": { "A": "carve", "B": "assess", "C": "multiply", "D": "perceive" },
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "question": "Louise ________ recalled how he used to bully the nerdy kids back in high school. He feels guilty all the time.",
+    "options": { "A": "voluntarily", "B": "regrettably", "C": "furiously", "D": "promptly" },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "question": "The president was awarded the Nobel Peace Prize for his outstanding ________ of solving the nuclear crisis.",
+    "options": { "A": "contribution", "B": "distribution", "C": "depression", "D": "oppression" },
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "After a ten-hour discussion, the board members finally decided to ________ my suggestion on the new product.",
+    "options": { "A": "absorb", "B": "adopt", "C": "commit", "D": "transmit" },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "question": "I have just heard form the manager that the final project of our team will be ________ next Monday. There is not much time left for us.",
+    "options": { "A": "due", "B": "durable", "C": "vacant", "D": "visual" },
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "question": "Thanks to the latest 5G network, international ________ via the Internet will no longer be disturbed by external factors, such as slow connect speed.",
+    "options": { "A": "communication", "B": "concentration", "C": "transformation", "D": "transportation" },
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "question": "The country has been divided for a long time. The candidate has stated once he wins the election, he is going to ________ the state and end the long-lasting division.",
+    "options": { "A": "access", "B": "expand", "C": "refer", "D": "unite" },
+    "answer": "D"
+  },
+  {
+    "id": 46,
+    "question": "After several months of investigation, the team concluded that the disaster could have been easily avoided if everyone had been on the same page to ________ the accident.",
+    "options": { "A": "persuade", "B": "prevent", "C": "produce", "D": "promote" },
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "question": "The college authorities cut the student's speech because they did not want people to know about their scandal. However, the ________ action backfired on them very soon.",
+    "options": { "A": "considerable", "B": "considerate", "C": "reckless", "D": "tactful" },
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "question": "The infection rate and death toll of the virus have dropped down significantly. However, the government is still not ________ with the current result and keeps promoting social distancing.",
+    "options": { "A": "affordable", "B": "content", "C": "confident", "D": "confidential" },
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "question": "Traditional sports start to notice the rise of E-sports and view it as a ________, for E-sports generate millions of dollars of revenue each year and are gradually taking over the market of traditional sports.",
+    "options": { "A": "condition", "B": "demand", "C": "threat", "D": "trend" },
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "question": "Nowadays, we media, also known as self-media, has gradually become a(n) ________ element of the media world. As more and more mainstream media show their political preferences, the general public is looking for more neutral third-party news.",
+    "options": { "A": "commercial", "B": "distinct", "C": "essential", "D": "extreme" },
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "question": "Many trees have been felled for ________ developments; as cities grow larger, the woodlands shrink.",
+    "options": { "A": "urban", "B": "solar", "C": "civil", "D": "tribal" },
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "question": "Our homeroom teacher ________ us in the school's music hall for the live concert given by a famous orchestra in Taiwan.",
+    "options": { "A": "occupied", "B": "exhibited", "C": "assembled", "D": "instructed" },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "question": "To better his English speaking skills, Jason hired a private ________ to help with his poor pronunciation and fluency.",
+    "options": { "A": "tutor", "B": "tenant", "C": "pioneer", "D": "merchant" },
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "question": "Though the small and shabby apartment is far from desirable, it's ________ to me since I can't afford a better one now.",
+    "options": { "A": "tolerable", "B": "potential", "C": "earnest", "D": "furious" },
+    "answer": "A"
+  },
+  {
+    "id": 55,
+    "question": "As a punishment, the airline decided to ________ those who took part in yesterday's protest. In total, 53 flight attendants and pilots would lose their jobs as a result.",
+    "options": { "A": "spare", "B": "export", "C": "cushion", "D": "dismiss" },
+    "answer": "D"
+  },
+  {
+    "id": 56,
+    "question": "To express their dissatisfaction with the new economic policy, tens of thousands of people ________ in front of the presidential office this morning.",
+    "options": { "A": "eliminated", "B": "circulated", "C": "negotiated", "D": "demonstrated" },
+    "answer": "D"
+  },
+  {
+    "id": 57,
+    "question": "Because Teresa was found to be ________, she decided to adopt one child from the nearby orphanage.",
+    "options": { "A": "infertile", "B": "diligent", "C": "aggressive", "D": "conservative" },
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "question": "The most important ________ of one's stomach is to break down food to allow efficient absorption when it passes through the intestine.",
+    "options": { "A": "function", "B": "reaction", "C": "movement", "D": "talent" },
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "question": "After having been in a coma for several days, the seriously injured patient finally regained ________. He can talk and eat on his own now.",
+    "options": { "A": "merriness", "B": "drowsiness", "C": "restlessness", "D": "consciousness" },
+    "answer": "D"
+  },
+  {
+    "id": 60,
+    "question": "The hiking trail climbed ________ upwards, leaving the hikers breathless and exhausted.",
+    "options": { "A": "bitterly", "B": "steeply", "C": "tensely", "D": "recklessly" },
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "question": "The dairy company recalled a popular mile product after discovering that it might have been ________ by a cleaning solution during production.",
+    "options": { "A": "certified", "B": "intensified", "C": "contaminated", "D": "innovated" },
+    "answer": "C"
+  },
+  {
+    "id": 62,
+    "question": "Aloe vera has long been used as a skincare remedy. In addition to moisturizing the skin, the plant has a(n) ________ effect on burns.",
+    "options": { "A": "soothing", "B": "annoying", "C": "outgoing", "D": "alarming" },
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "question": "As I get ________ very easily, I avoid listening to music while I'm studying or doing my homework.",
+    "options": { "A": "involved", "B": "persisted", "C": "distracted", "D": "inspired" },
+    "answer": "C"
+  },
+  {
+    "id": 64,
+    "question": "A political dissident sought refuge in a foreign ________, claiming that his life was under threat due to his anti-government activities.",
+    "options": { "A": "embassy", "B": "alternative", "C": "colleague", "D": "intersection" },
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "question": "In the ________ village, time seems to stop. It is the perfect place for people like me who want to get away from the hustle and bustle of city life.",
+    "options": { "A": "thirsty", "B": "queer", "C": "critical", "D": "serene" },
+    "answer": "D"
+  },
+  {
+    "id": 66,
+    "question": "To communicate effectively, you have to learn to speak with ________ and avoid beating around the bush.",
+    "options": { "A": "residence", "B": "precision", "C": "dependence", "D": "legislation" },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "question": "The celebrity hired a famous lawyer to ________ for him.",
+    "options": { "A": "attend", "B": "defend", "C": "command", "D": "offend" },
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "question": "If you are looking for information about the company, you can check out its ________.",
+    "options": { "A": "brochure", "B": "sculpture", "C": "furniture", "D": "temperature" },
+    "answer": "A"
+  },
+  {
+    "id": 69,
+    "question": "The ________ of the new policy is to reduce air pollution.",
+    "options": { "A": "intention", "B": "invention", "C": "convention", "D": "prevention" },
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "question": "The ________ of the earthquake measured 6.5 on the Richter scale.",
+    "options": { "A": "attitude", "B": "magnitude", "C": "latitude", "D": "gratitude" },
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "question": "The ________ of the new product has been delayed due to technical problems.",
+    "options": { "A": "punch", "B": "crunch", "C": "launch", "D": "branch" },
+    "answer": "C"
+  },
+  {
+    "id": 72,
+    "question": "The ________ of the story is that honesty is the best policy.",
+    "options": { "A": "mural", "B": "mortal", "C": "metal", "D": "moral" },
+    "answer": "D"
+  },
+  {
+    "id": 73,
+    "question": "The ________ of the sun is essential for all life on earth.",
+    "options": { "A": "warmth", "B": "wealth", "C": "wrath", "D": "width" },
+    "answer": "A"
+  },
+  {
+    "id": 74,
+    "question": "The ________ of the internet has changed the way we communicate.",
+    "options": { "A": "adventure", "B": "advent", "C": "advice", "D": "adverse" },
+    "answer": "B"
+  },
+  {
+    "id": 75,
+    "question": "The ________ of the problem lies in the lack of communication.",
+    "options": { "A": "roof", "B": "root", "C": "boot", "D": "foot" },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "question": "The ________ of the mountain was covered in snow.",
+    "options": { "A": "peak", "B": "beak", "C": "leak", "D": "weak" },
+    "answer": "A"
+  },
+  {
+    "id": 77,
+    "question": "The ________ of the car is damaged.",
+    "options": { "A": "hood", "B": "wood", "C": "food", "D": "good" },
+    "answer": "A"
+  },
+  {
+    "id": 78,
+    "question": "The ________ of the situation is very serious.",
+    "options": { "A": "gravity", "B": "cavity", "C": "brevity", "D": "levity" },
+    "answer": "A"
+  },
+  {
+    "id": 79,
+    "question": "The ________ of the music is very soothing.",
+    "options": { "A": "rhythm", "B": "rhyme", "C": "time", "D": "lime" },
+    "answer": "A"
+  },
+  {
+    "id": 80,
+    "question": "The ________ of the flower is very fragrant.",
+    "options": { "A": "scent", "B": "cent", "C": "sent", "D": "tent" },
+    "answer": "A"
+  },
+  {
+    "id": 81,
+    "question": "The government has announced a new ________ to boost the economy.",
+    "options": { "A": "initiative", "B": "incentive", "C": "imperative", "D": "indicative" },
+    "answer": "A"
+  },
+  {
+    "id": 82,
+    "question": "The company is facing a severe ________ of skilled workers.",
+    "options": { "A": "shortage", "B": "shrinkage", "C": "seepage", "D": "sewage" },
+    "answer": "A"
+  },
+  {
+    "id": 83,
+    "question": "The doctor prescribed some ________ to relieve the pain.",
+    "options": { "A": "medication", "B": "meditation", "C": "mediation", "D": "moderation" },
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "question": "The police are investigating the ________ of the crime.",
+    "options": { "A": "motive", "B": "motor", "C": "motion", "D": "motif" },
+    "answer": "A"
+  },
+  {
+    "id": 85,
+    "question": "The student made a ________ effort to improve his grades.",
+    "options": { "A": "concerted", "B": "converted", "C": "conceited", "D": "convicted" },
+    "answer": "A"
+  },
+  {
+    "id": 86,
+    "question": "The building was destroyed by a massive ________.",
+    "options": { "A": "explosion", "B": "expansion", "C": "exclusion", "D": "extension" },
+    "answer": "A"
+  },
+  {
+    "id": 87,
+    "question": "The team won the championship for the third ________ year.",
+    "options": { "A": "consecutive", "B": "conservative", "C": "constructive", "D": "consultative" },
+    "answer": "A"
+  },
+  {
+    "id": 88,
+    "question": "The artist's work is characterized by its ________ style.",
+    "options": { "A": "unique", "B": "unison", "C": "union", "D": "unit" },
+    "answer": "A"
+  },
+  {
+    "id": 89,
+    "question": "The politician was accused of ________ corruption.",
+    "options": { "A": "rampant", "B": "radiant", "C": "repugnant", "D": "reluctant" },
+    "answer": "A"
+  },
+  {
+    "id": 90,
+    "question": "The scientist conducted a ________ experiment to test the hypothesis.",
+    "options": { "A": "rigorous", "B": "vigorous", "C": "amorous", "D": "glamorous" },
+    "answer": "A"
+  },
+  {
+    "id": 91,
+    "question": "The company has a strict ________ on sexual harassment.",
+    "options": { "A": "policy", "B": "police", "C": "polite", "D": "polish" },
+    "answer": "A"
+  },
+  {
+    "id": 92,
+    "question": "The student was expelled for ________ the school rules.",
+    "options": { "A": "violating", "B": "validating", "C": "vacating", "D": "ventilating" },
+    "answer": "A"
+  },
+  {
+    "id": 93,
+    "question": "The manager is responsible for ________ the staff.",
+    "options": { "A": "supervising", "B": "surprising", "C": "surmising", "D": "surviving" },
+    "answer": "A"
+  },
+  {
+    "id": 94,
+    "question": "The athlete was disqualified for using ________ drugs.",
+    "options": { "A": "illegal", "B": "illegible", "C": "illicit", "D": "illiterate" },
+    "answer": "A"
+  },
+  {
+    "id": 95,
+    "question": "The government is trying to ________ the economy.",
+    "options": { "A": "stimulate", "B": "simulate", "C": "stipulate", "D": "speculate" },
+    "answer": "A"
+  },
+  {
+    "id": 96,
+    "question": "The problem is too ________ to be solved easily.",
+    "options": { "A": "complex", "B": "convex", "C": "context", "D": "contact" },
+    "answer": "A"
+  },
+  {
+    "id": 97,
+    "question": "The solution to the problem is ________.",
+    "options": { "A": "obvious", "B": "oblivious", "C": "obnoxious", "D": "obscure" },
+    "answer": "A"
+  },
+  {
+    "id": 98,
+    "question": "The company is expanding its ________ operations.",
+    "options": { "A": "global", "B": "globular", "C": "glossy", "D": "gloomy" },
+    "answer": "A"
+  },
+  {
+    "id": 99,
+    "question": "The project was completed ________ of schedule.",
+    "options": { "A": "ahead", "B": "abroad", "C": "aboard", "D": "about" },
+    "answer": "A"
+  },
+  {
+    "id": 100,
+    "question": "The results of the study were ________.",
+    "options": { "A": "conclusive", "B": "conducive", "C": "connective", "D": "collective" },
+    "answer": "A"
+  }
+]
